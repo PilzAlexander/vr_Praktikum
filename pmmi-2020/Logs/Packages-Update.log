@@ -49,3 +49,11 @@ Update Mode: updateDependencies
 
 The following packages were updated:
   com.unity.package-manager-ui from version 2.0.8 to 2.0.13
+
+=== Fri Dec  4 16:00:27 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.purchasing from version 2.0.3 to 2.1.1
