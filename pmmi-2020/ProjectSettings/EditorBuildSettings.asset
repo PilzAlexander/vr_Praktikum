@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/inspektion.unity
+    guid: 7650d20ea8a582140ba56b836b0f6338
+  - enabled: 1
+    path: Assets/Scenes/cockpit.unity
+    guid: 21870e368b7abf24d9d2707b00eb43f7
   m_configObjects: {}
