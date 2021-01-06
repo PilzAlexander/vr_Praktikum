@@ -25,4 +25,4 @@ In den beiden verwendeten Scenes wird eine andere Skybox verwendet als die stand
 
 Gras am Boden oder sonstige Details wurden bewusst weggelassen, da es in der Scene sonst zu stark geruckelt hat.
 
-Das Testen in der Scene ```"inspektion"``` konnte aufgrund fehlender VR-Hardware leider nicht stattfinden. Im Labor hat es noch funktioniert, jedoch weiß ich nicht ob der Spawnpunkt nach den Umgebungsänderungen noch passend ist.
+Das Testen in der Scene ```"inspektion"``` konnte aufgrund fehlender VR-Hardware leider nicht stattfinden. Im Labor hat es noch funktioniert, jedoch weiß ich nicht ob z.B. der Spawnpunkt nach den Umgebungsänderungen noch passend ist.
