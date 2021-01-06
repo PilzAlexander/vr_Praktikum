@@ -17,7 +17,7 @@ S - Bewegen nach hinten \
 E - Steigen \
 Q - Sinken \
 D - Drehen nach rechts \
-A - Drehen nach links \
+A - Drehen nach links 
 
 In der Scene "cockpit" wurde eine Landschaft erzeugt, Texturen aufgetragen, Bäume hinzugefügt, eine Audioquelle für den Rotor hinzugefügt und eine kleine Basis für den Startpunkt des Helikopters hinzugefügt. 
 
