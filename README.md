@@ -21,7 +21,7 @@ A - Drehen nach links
 ```
 In der Scene ```"cockpit"``` wurde eine Landschaft erzeugt, Texturen aufgetragen, Bäume hinzugefügt, eine Audioquelle für den Rotor hinzugefügt und eine kleine Basis für den Startpunkt des Helikopters erstellt. 
 
-In den beiden verwendeten Scenes wurde eine andere Skybox verwendet als die Standardmäßige.
+In den beiden verwendeten Scenes wird eine andere Skybox verwendet als die Standardmäßige.
 
 Gras am Boden oder sonstige Details wurden bewusst weggelassen, da es in der Scene sonst zu stark geruckelt hat.
 
