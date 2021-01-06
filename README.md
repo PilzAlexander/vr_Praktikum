@@ -19,7 +19,7 @@ Q - Sinken \
 D - Drehen nach rechts \
 A - Drehen nach links 
 
-In der Scene "cockpit" wurde eine Landschaft erzeugt, Texturen aufgetragen, Bäume hinzugefügt, eine Audioquelle für den Rotor hinzugefügt und eine kleine Basis für den Startpunkt des Helikopters hinzugefügt. 
+In der Scene "cockpit" wurde eine Landschaft erzeugt, Texturen aufgetragen, Bäume hinzugefügt, eine Audioquelle für den Rotor hinzugefügt und eine kleine Basis für den Startpunkt des Helikopters erstellt. 
 
 In den beiden verwendeten Scenes wurde eine andere Skybox verwendet als die Standardmäßige.
 
