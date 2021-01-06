@@ -18,17 +18,15 @@ public class Fly : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.W)) { this.transform.Translate(Vector3.forward * speed * Time.deltaTime); }
 
-        if (Input.GetKey(KeyCode.A)) { this.transform.Rotate(Vector3.left * speed * Time.deltaTime); }
+        if (Input.GetKey(KeyCode.A)) { this.transform.Rotate(-1*Vector3.up * speed * Time.deltaTime); }
 
         if (Input.GetKey(KeyCode.S)) { this.transform.Translate(Vector3.back * speed * Time.deltaTime); }
 
-        if (Input.GetKey(KeyCode.D)) { this.transform.Rotate(Vector3.right * speed * Time.deltaTime); }
+        if (Input.GetKey(KeyCode.D)) { this.transform.Rotate(Vector3.up * speed * Time.deltaTime); }
 
-        if (Input.GetKey(KeyCode.Q)) { this.transform.Translate(Vector3.up * speed * Time.deltaTime); }
+        if (Input.GetKey(KeyCode.Q)) { this.transform.Translate(Vector3.down * speed * Time.deltaTime); }
 
-        if (Input.GetKey(KeyCode.E)) { this.transform.Translate(Vector3.down * speed * Time.deltaTime); }
-
-        // if (Input.GetKey(KeyCode.W)) { this.transform.Translate(Vector3.forward * speed * Time.deltaTime); }
+        if (Input.GetKey(KeyCode.E)) { this.transform.Translate(Vector3.up * speed * Time.deltaTime); }
 
     
     }

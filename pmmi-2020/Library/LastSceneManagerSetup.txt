@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/rollaballVr.unity
+- path: Assets/Scenes/cockpit.unity
   isLoaded: 1
   isActive: 1
